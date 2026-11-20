@@ -1,11 +1,15 @@
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/erick-hj010/news-image-20261119-entry/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/erick-hj010/news-image-20261119-entry/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 # Sum up 19 November's world news in one image — entry skeleton
 
 Entry for make.fun bounty `news-image-20261119`: a program that writes one
 image summarising 19 November 2026 world news to `/output/entry.png`.
 
-This repository is currently a compliant skeleton / placeholder. The final
-news image will replace `entry_src.png` once the news selection is finalised;
-the program logic does not change.
+The bundled `entry_src.png` is the final front-page image: seven stories of
+19 November 2026 typeset as a one-page newspaper. The program logic is a
+byte-for-byte copy, so the output is fully deterministic.
 
 ## What it does
 
